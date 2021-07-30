@@ -26,6 +26,7 @@ To run you need:
 Click on start and open powershell. Copy this code into powershell
 
 `Add-Content c:\path-to-app-root-dir\.Renviron "TEXT_TO_SPEECH_URL=xxx"`
+
 `Add-Content c:\path-to-app-root-dir\.Renviron "TEXT_TO_SPEECH_APIKEY=yyy"`
 
 5. Run application locally or thought rsconnect package
